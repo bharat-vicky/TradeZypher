@@ -20,8 +20,6 @@
     "web-vitals": "^2.1.4"
   },
   "scripts": {
-    "start:dashboard": "cd dashboard && npm start",
-    "start": "npm run start:dashboard",  
     "start": "react-scripts start",
     "build": "react-scripts build",
     "test": "react-scripts test",
