@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "scripts": {
     "start:frontend": "cd frontend && npm start",
-    "start": "npm run start:frontend",
+    "start": "npm run start:frontend"
   },
   "dependencies": {
   "@testing-library/jest-dom": "^5.17.0",
