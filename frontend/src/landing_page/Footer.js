@@ -6,7 +6,7 @@ function Footer() {
       <div className="container border-top mt-5">
         <div className="row mt-5">
           <div className="col">
-            <img src="../../public/media/images/logo.png" style={{ width: "50%" }} />
+            <img src="frontend/public/Media/images/logo.png" style={{ width: "50%" }} />
             <p>
               &copy; 2024, TradeZypher. All rights reserved.
             </p>
